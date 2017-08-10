@@ -1,0 +1,243 @@
+/* Space out content a bit */
+body {
+  background-color:#f2f2f2;
+  overflow:auto;
+  padding-top:2em;
+  padding-bottom:2em;
+}
+
+/* Everything but the jumbotron gets side spacing for mobile first views */
+.header,
+.marketing,
+.footer {
+	
+}
+
+.nav, .nav-pills, .float-right{
+padding-top: 0.5em;
+padding-bottom:0.5em;
+}
+.nav-link{
+font-size: 0.75em;
+letter-spacing:0.05em;
+font-weight: bold;
+color:black;
+}
+.extra{
+	
+	
+}
+.left-side{
+	
+	padding-right:20em;
+}
+.icon{
+padding-right:6em;
+}
+.links{
+	
+	
+}
+.btn-link{
+	font-size: 0.7em;
+	font-weight: bold;
+	color:#6600CC;	
+}
+.btn-default {
+font-size: 0.8em;
+border-radius: 7em;
+background:#6600CC;	
+color:white;
+}
+
+/* jumbotron 
+
+.jumbotron h3 {
+ padding-bottom: 1.25rem;
+  margin-bottom: 2rem;
+  border-bottom: .2rem solid red;
+  
+}*/
+/* Make the masthead heading the same height as the navigation */
+
+/* Custom page footer */
+.footer {
+  
+  color: #777;
+  
+}
+
+/* Customize container */
+@media (min-width: 58em) {
+  .container {
+    max-width: 56rem;
+  }
+}
+
+/* Main marketing message and sign up button */
+
+/* Supporting marketing content */
+.marketing {
+  background-color: transparent;
+}
+
+.featurette-divider {
+  border-bottom: .2rem solid #6600CC;  
+}
+
+.title{
+font-size:2.5em;
+font-weight:lighter;
+}
+.title-head{
+	padding-top:6em;
+	padding-left:0em;
+}
+.title-img{
+background-color: transparent;
+}
+
+.marketing p + h4 {
+  margin-top: 1.5rem;
+}
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 48em) {
+  /* Remove the padding we set earlier */
+  .header,
+  .marketing,
+  .footer {
+    
+  }
+  /* Space out the masthead */
+  .header {
+    margin-bottom: 1rem;
+  }
+  /* Remove the bottom border on the jumbotron for visual effect */
+ 
+}
+/*................row text ...........................*/
+.row-center-text{
+	color:#6600CC;
+	padding:0.8em;	
+	font-weight:80px;	
+}
+.text-muted{
+	
+	font-weight:lighter;
+	
+}
+/* jumbotron.....*/
+.jumbotron {
+  text-align: center;
+  background-color: transparent;
+}
+
+.jumbotron-text{
+	font-size:0.8em;
+	font-weight:80px;
+}
+/* -------------Featurettes------------------------- */
+
+
+.featurette-separator{	
+	padding:1.2em;
+}
+/* Thin out the marketing headings */
+.featurette-heading {
+	color:#6600CC;	
+	font-weight:80px;	
+}
+
+.sponsors{
+overflow:auto;	
+
+}
+/* card */
+
+.card {
+  background: #fff;
+  border-radius: 2px;
+  height: 60px; 
+	width:100%;
+}
+
+.card-1 {
+  box-shadow: 0 14px 28px rgb(230, 204, 255), 0 10px 10px rgb(230, 204, 255);  
+}
+.panel-shadow-text{
+	color:#6600CC;	
+	font-weight:80px;	
+	padding:15px;
+}
+/* email subcription*/
+.card2 {
+  background: #fff;
+  border-radius: 2px;
+  height: auto; 
+	width:100%;
+	padding:5px;
+	float:center;
+}
+.card-2 {
+  box-shadow: 0 14px 28px rgb(230, 204, 255), 0 10px 10px rgb(230, 204, 255);  
+}
+
+.panel-shadow-text2{
+	color:#6600CC;	
+	font-weight:80px;	
+	padding:10px;
+}
+
+#email-subcribtion-text{
+width:60%;	
+height:35%;	
+	font-weight:bold;
+	border-radius:10px;
+	color:#6600CC;
+}
+#email-subscription{
+font-size: 0.8em;
+border-radius: 7em;
+background:#6600CC;	
+color:white;
+padding:10px;
+
+}
+
+.invert {-webkit-filter: invert(60%);filter: invert(30%);}
+.opacity {-webkit-filter: opacity(10%);filter: opacity(10%);
+}
+
+/* counter timer */
+.countdown-timer-wrapper {
+  border-radius: 5px;
+  background-color: rgba(0, 0, 0, 0.6);
+  margin-bottom: 20px;
+  max-width: 300px;
+  margin: 50px auto;
+  
+}
+
+.countdown-timer-wrapper .timer {
+  padding: 10px;
+  text-align: center;
+  padding-top: 25px;
+}
+
+.countdown-timer-wrapper .timer .timer-wrapper {
+  display: inline-block;
+  width: 60px;
+  height: 50px;
+}
+
+.countdown-timer-wrapper .timer .timer-wrapper .time {
+  font-size: 28px;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.countdown-timer-wrapper .timer .timer-wrapper .text {
+  font-size: 12px;
+  color: rgba(255, 255, 255, 0.6);
+}

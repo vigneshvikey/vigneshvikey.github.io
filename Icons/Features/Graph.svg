@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 578.3 129.2" enable-background="new 0 0 578.3 129.2" xml:space="preserve">
+<g>
+	<g>
+		<text transform="matrix(1 0 0 1 35.002 127.7484)" fill="#ABBCCC" font-family="'Lato-Black'" font-size="8">JAN</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 17.0401 115.2631)" fill="#ABBCCC" font-family="'Lato-Black'" font-size="8">0</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 0.7203 88.1757)" fill="#ABBCCC" font-family="'Lato-Black'" font-size="8">1000</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 0.7203 61.0878)" fill="#ABBCCC" font-family="'Lato-Black'" font-size="8">2000</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 0.7203 34.0004)" fill="#ABBCCC" font-family="'Lato-Black'" font-size="8">3000</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 0.7203 6.9125)" fill="#ABBCCC" font-family="'Lato-Black'" font-size="8">4000</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 81.7291 127.7494)" fill="#ABBCCC" font-family="'Lato-Black'" font-size="8">FEB</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 127.4879 127.7494)" fill="#ABBCCC" font-family="'Lato-Black'" font-size="8">MAR</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 177.7608 127.7494)" fill="#ABBCCC" font-family="'Lato-Black'" font-size="8">APR</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 225.5626 127.7494)" fill="#ABBCCC" font-family="'Lato-Black'" font-size="8">MAY</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 275.3384 127.7504)" fill="#ABBCCC" font-family="'Lato-Black'" font-size="8">JUN</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 322.3775 127.7513)" fill="#ABBCCC" font-family="'Lato-Black'" font-size="8">JUL</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 367.5201 127.7513)" fill="#ABBCCC" font-family="'Lato-Black'" font-size="8">AUG</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 416.3677 127.7513)" fill="#ABBCCC" font-family="'Lato-Black'" font-size="8">SEP</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 462.0303 127.7513)" fill="#ABBCCC" font-family="'Lato-Black'" font-size="8">OCT</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 510.2808 127.7523)" fill="#ABBCCC" font-family="'Lato-Black'" font-size="8">NOV</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 560.0015 127.7533)" fill="#ABBCCC" font-family="'Lato-Black'" font-size="8">DEC</text>
+	</g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="305.0197" y1="16.3082" x2="307.6658" y2="113.0111">
+		<stop  offset="0" style="stop-color:#13D9C4"/>
+		<stop  offset="0.3033" style="stop-color:#45CFC7;stop-opacity:0.6967"/>
+		<stop  offset="0.7792" style="stop-color:#8EC2CA;stop-opacity:0.2208"/>
+		<stop  offset="1" style="stop-color:#ABBCCC;stop-opacity:0"/>
+	</linearGradient>
+	<path opacity="0.1" fill="url(#SVGID_1_)" d="M35,80.8c0,0,46.6-46.8,184.3-29.7c173.1,21.5,212.6-11.9,249.1-22.8
+		s59.4-14.7,109.3-11v95.1H35V80.8z"/>
+	<path fill="none" stroke="#13D9C4" stroke-linecap="round" stroke-miterlimit="10" d="M577.7,17.3c-50-3.7-72.9,0-109.3,11
+		s-76,44.3-249.1,22.8C81.6,34,35,80.8,35,80.8"/>
+</g>
+</svg>
